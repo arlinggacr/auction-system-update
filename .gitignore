@@ -1,7 +1,7 @@
 # compiled output
 /dist
 /node_modules
-.env
+.env.stage.dev
 
 # Logs
 logs
